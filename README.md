@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">Full Stack Developer | MERN & Backend</h3>
+<h3 align="center">Full Stack | MERN | Next.js/React | Node.js | Express/NestJS</h3>
 
 - 🔭 I'm currently working on **Next.js and NestJS projects**
 - 🌱 I'm currently learning **system design, Better Auth**
